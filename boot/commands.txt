@@ -1,0 +1,2 @@
+docker build -t test .     ---------------to build the image
+docker run --name boot -it {image name while building}
